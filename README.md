@@ -11,3 +11,17 @@ Version TypeScript:
 > tsc -v
 >
 > npm install typescript --save-devbrewinstall typescrip
+
+
+
+DATA TYPES  (The variables have Type)
+
+> Number    		var x:number = 123
+>
+> String			var x:string = "Ana"
+>
+> boolean			var x:boolean = true
+>
+> any				var x:any ="Ana"
+>
+> enum			var e = {Male,Female}
